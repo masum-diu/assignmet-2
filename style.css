@@ -162,10 +162,11 @@ footer p {
   .Popular-Collection-area-card {
     grid-template-columns: repeat(1, 1fr);
   }
-
-  /* tablet view */
 }
-@media only screen and (max-width: 988px) {
+
+/* tablet view */
+
+/* @media only screen and (max-width: 992px) {
   .influencer-area {
     width: 100%;
     flex-direction: column;
@@ -183,4 +184,4 @@ footer p {
   .Popular-Collection-area-card {
     grid-template-columns: repeat(2, 1fr);
   }
-}
+} */
